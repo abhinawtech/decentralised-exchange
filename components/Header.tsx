@@ -53,7 +53,7 @@ const Header = () => {
   return (
     <div className={style.wrapper}>
       <div className={style.headerLogo}>
-        <Image src={uniswapLogo} alt='uniswap' height={40} width={40} />
+        <Image src={uniswapLogo} alt='uniswap' height={100} width={100} />
       </div>
       <div className={style.nav}>
         <div className={style.navItemsContainer}>
